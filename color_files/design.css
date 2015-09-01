@@ -1,0 +1,461 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+body { 
+
+background-color:#FFF;
+font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+font-size:100.01%; 
+color:#FFF; 
+} 
+
+
+
+
+#wrapper { 
+
+width:960px;
+height:auto;
+margin-right:auto;
+margin-left:auto;
+position:relative;
+} 
+
+#wrapperproject { 
+width:3000px;
+height:auto;
+}
+
+#wrapperprojectcolor {width:20400px;
+
+
+}
+
+#wrapperprojectmemory {width:8900px;
+}
+
+#wrapperprojectfilm {width:5400px;
+}
+
+#wrapperprojectidi {width:1100px;
+}
+
+#wrapperprojectphoto {width:2600px;
+}
+#wrapperprojectred {width:9300px;
+}
+#wrapperprojectycn {width:2900px; }
+
+#wrapperprojectobject {width:4800px;}
+
+#wrapperprojectbox {width:1300px;}
+
+#wrapperprojectworker{width:3900px;}
+
+#animated {
+	padding-left:300px;
+	padding-top:50px; }
+
+
+#headder {
+	height:110px;
+	width:960px;
+	margin-left: 0px;
+	padding-left: 5px;
+	background-image:url(../images/logo.jpg);
+	background-repeat:no-repeat;
+	}
+
+#nav1 {
+	margin-left:200px;
+	list-style:none;
+	font-size: 10px;
+	float:left;
+	padding-top:15px;
+}
+
+#nav1 a {
+	text-decoration:none;
+	color: #000;	
+	}
+
+#nav2 { margin-left:0px;
+list-style:none;
+font-size:10px;
+float:left;
+padding-top:15px;
+
+}
+
+#nav2 a { text-decoration:none;
+color:#000;
+
+}
+
+#nav3 { margin-left:0px;
+list-style:none;
+font-size:10px;
+float:left;
+padding-top:15px;
+
+}
+
+#nav3 a { text-decoration:none;
+color:#000;
+}
+
+
+
+#icons {
+	width:250px;
+	height:60px;
+	float:right;
+	margin-top:25px;
+}
+
+#icons ol {
+	display: inline;
+}
+
+#icons li {
+	display: inline;
+}
+
+#iconsproject {
+	width:250px;
+	height:60px;
+	float:right;
+	}
+
+#iconsproject ol {
+	display: inline;
+}
+
+#iconsproject li {
+	display: inline;
+}
+
+#content { width:980px;
+background-color:#F9F;
+} 
+
+
+
+#col1projectpage {  width:300px;
+height:700px;
+float:left;
+padding-right:29px;
+}
+
+#col1 { width:300px;
+height:240px;
+float:left;
+padding-right:30px;
+padding-left:20px;
+
+}
+
+
+
+#col1 h4 {
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-weight:700;
+	color: #000;
+	padding-left:5px;
+	}
+	
+#col1 p {
+	font-size: 10px;
+	color: #000;
+	text-align:justify;
+	padding-left:5px;
+	font-weight:100;
+}
+
+#color { padding-bottom:30px;}
+
+#col1about {width:300px;
+height:700px;
+float:left;
+padding-right:60px;
+padding-top:20px;
+}
+
+
+#col2about { width:300px;
+float:left;
+padding-right:30px;
+padding-left:30px;
+}
+
+
+
+#col2about h4 {
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-weight:700;
+	color: #000;
+	padding-left:5px;
+	}
+	
+
+	
+#col2about p {
+	font-size: 10px;
+	color: #000;
+	text-align:justify;
+	padding-left:5px;
+	font-weight:100;
+}	
+
+#col2about h6 {font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-weight:700;
+	color: #000;
+	text-decoration:none;
+	padding-top:255px}
+	
+#col2about ul { display:inline;
+list-style:none;
+text-decoration:none; } 
+
+#col2about li { list-style:none;
+text-decoration:none;
+font-size: 10px;
+color: #000;
+text-align:justify;
+font-weight:100;
+padding-bottom:4px;
+}
+
+
+#col2projectpage {
+width:300px;
+height:700px;
+float:left;
+
+} 
+
+
+
+
+
+#col2 {
+width:300px;
+height:700px;
+float:left;
+padding-right:30px;
+} 
+
+#col2project {
+height:550px;
+float:left;
+padding-right:30px;
+
+} 
+
+
+#memory { padding-bottom:30px;
+}
+
+#photography { padding-bottom:30px;
+}
+
+#col2 ul, #col2project ul { display:inline;
+list-style:none;
+padding-left:20px;
+} 
+
+#col2 li, #col2project ul li {display:inline;
+padding-right:10px;
+}
+
+#col3projectpage { width:300px;
+height:700px;
+float:left;
+padding-left:28px
+} 
+
+#col3 {
+width:300px;
+height:700px;
+float:left;
+
+
+} 
+
+#morephotography { padding-top:30px;
+width:237px;
+height:159px;
+}
+
+#morephotography a:hover {display:block;
+
+}
+
+#typography { padding-top:30px;
+width:237px;
+height:159px;
+}
+
+#typography a:hover {display:block;
+
+}
+
+
+#archive {padding-bottom:30px;
+}
+
+#boxpunk {padding-top:30px;
+}
+
+#object {padding-top:30px;}
+
+#back a{ font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-weight:200
+	;
+	color: #000;
+	padding-top:470px;
+	width:30px;
+	float:left;
+	font-style:italic;
+	font-size:9px;	}
+	
+#contact {
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-weight:200;
+	color: #000;
+	width:300px;
+	height:100px;
+	padding-top:5px;
+	text-decoration:none;
+	float:left;
+	} 
+	
+#contact h6 { 
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-weight:700;
+	color: #000;
+	text-decoration:none;
+	
+	}	
+
+#contact ul {display:inline;
+list-style:none;
+text-decoration:none;
+} 
+	
+#contact li {list-style:none;
+text-decoration:none;
+font-size: 10px;
+color: #000;
+text-align:justify;
+font-weight:100;
+padding-bottom:4px;
+}
+
+#contactproject {
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-weight:200;
+	color: #000;
+	width:300px;
+	text-decoration:none;
+	padding-bottom:10px;
+	
+} 
+	
+#contactproject h6 { 
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-weight:700;
+	color: #000;
+	float:right;
+text-decoration:none;
+	}	
+
+#contactproject ul {display:inline;
+list-style:none;
+text-decoration:none;
+
+} 
+	
+#contactproject li {list-style:none;
+text-decoration:none;
+font-size: 10px;
+color: #000;
+text-align:justify;
+font-weight:100;
+padding-bottom:4px;
+}
+
+#newicon {padding-left:30px;
+width:300px;
+height:auto;
+float:left;
+margin-top:-230px;
+
+}
+
+
+#newicon ul {display:inline;
+list-style:none;
+text-decoration:none;
+
+}
+
+#newicon li {padding-top:5px;
+}
+
+
+
+
+
+
+#projectlist {
+	float:left;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size:11px;
+	color:#000;
+	padding-right:10px;
+	height:150px;
+	margin-top:-40px;
+	height:80px;
+	width:200px;
+}
+
+#projectlist ul {list-style:none;
+text-decoration:none;}
+
+#projectlist a {
+	text-decoration:none;
+	color: #000;	
+	}
+
+
+#projectlist2 {
+	float:left;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size:11px;
+	color:#000;
+	padding-right:10px;
+	height:150px;
+	margin-top:-40px;
+	height:80px;
+	width:200px;
+}
+
+#projectlist2 ul {list-style:none;
+text-decoration:none;}
+
+
+#projectlist2 a {
+	text-decoration:none;
+	color: #000;	
+	}
+	
+#projectlist a:hover {color: #666;
+text-decoration: line-through;
+} 	
+	
+
+#projectlist2 a:hover {color: #666;
+text-decoration: line-through;
+} 
